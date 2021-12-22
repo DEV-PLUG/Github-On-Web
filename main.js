@@ -7,7 +7,7 @@ $(document).ready(function () {
         link.id   = cssId;
         link.rel  = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'https://github.com/DEV-PLUG/github-on-web/main.css';
+        link.href = 'https://dev-plug.github.io/Github-On-Web/main.css';
         link.media = 'all';
         head.appendChild(link);
     }
@@ -20,7 +20,6 @@ $(document).ready(function () {
                 $(property).empty();
 
                 if (result) {
-                    console.log(result, i)
                     let repository_name, repository_description, repository_language_color, repository_language_name, repository_stars_count;
 
                     // repo 이름 설정
