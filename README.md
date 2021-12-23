@@ -8,12 +8,20 @@
 - 피드백이나 문제점은 이슈를 생성해 알려주세요!
 
 ## 🙋‍♀️ 구체적인 사용법을 알려주세요!   
-1. 우선, Js 파일을 로드해주세요! 제이쿼리와 구글 아이콘은 필수이니 둘 다 로드하지 않은 경우 아래 코드를 헤더 부분에 붙여넣으세요.
+1. 우선, Js 파일을 로드해주세요! 제이쿼리와 구글 아이콘을 사용합니다!
+
+> 제이쿼리와 구글 아이콘을 로드하지 않은 경우 다음 코드 사용
 ```html
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <script src="https://dev-plug.github.io/Github-On-Web/main.js"></script>
 ```
+
+> 제이쿼리와 구글 아이콘을 로드한 경우 다음 코드 사용
+```html
+<script src="https://dev-plug.github.io/Github-On-Web/main.js"></script>
+```
+
 2. html에서 요소를 생성하고, 다음과 같이 클래스와 아이디를 설정해주세요! 아이디에는 자신의 레포지토리를 삽입하세요!
 ```html
 <div class="github-repository" id="DEV-PLUG/Github-On-Web"></div>
@@ -22,6 +30,13 @@
 ```html
 <div class="github-repository repository-style-dark" id="Github-On-Web"></div>
 ```
+
+## 📥 사용결과
+> 기본
+<img src="https://github.com/DEV-PLUG/Github-On-Web/blob/main/.github/images/light.png?raw=true"/> 
+
+> 다크 모드 적용
+<img src="https://github.com/DEV-PLUG/Github-On-Web/blob/main/.github/images/dark.png?raw=true"/>
 
 ## 📑기여
 아직 레포지토리 주요 언어에 대한 색을 몇개만 지원합니다! <br> 
