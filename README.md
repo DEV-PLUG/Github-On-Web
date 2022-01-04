@@ -28,7 +28,7 @@
 ```
 3. 다크 모드를 적용하려면 클래스에 repository-style-dark를 추가하세요!
 ```html
-<div class="github-repository repository-style-dark" id="Github-On-Web"></div>
+<div class="github-repository repository-style-dark" id="DEV-PLUG/Github-On-Web"></div>
 ```
 
 ## 📥 사용결과
@@ -38,6 +38,3 @@
 > 다크 모드 적용
 <img src="https://github.com/DEV-PLUG/Github-On-Web/blob/main/.github/images/dark.png?raw=true"/>
 
-## 📑기여
-아직 레포지토리 주요 언어에 대한 색을 몇개만 지원합니다! <br> 
-여러분의 기여는 많은 도움이 됩니다!
