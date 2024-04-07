@@ -2,7 +2,7 @@
 
 [![Patreon](https://img.shields.io/badge/Sponsor-Patreon-critical)](https://www.patreon.com/bePatron?u=64697816)
 
-## ❓ Github On Web이 뭐에요?   
+## ❓ Github On Web이 무엇인가요?   
 - **Github On Web**은 html에서 **<u>Id 설정만으로 깃헙 레포지토리를 표시할 수 있게</u>** 하기 위해 만들었습니다.  
 - 제가 필요해 만들어 봤고, 코드도 굉장히 굉장히 적기 때문에 포트폴리오에 깃헙 레포지토리 표시할 때 사용하시기 좋습니다.
 - 피드백이나 문제점은 이슈를 생성해 알려주세요!
